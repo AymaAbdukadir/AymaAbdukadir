@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="159" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img src="https://avatars.githubusercontent.com/u/135360288?v=4" width="120" height="120" style="border-radius: 50%;" alt="AymaAbdukadir Avatar" />
 </div>
 
 ###
