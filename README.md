@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/135360288?v=4" width="120" height="120" style="border-radius: 50%;" alt="AymaAbdukadir Avatar" />
+  <img 
+    src="https://i.pinimg.com/originals/85/43/cc/8543ccfc6fb8eccb7f293006aa9e8525.jpg" 
+    alt="Profile Image"
+    style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;"
+  >
 </div>
 
 ###
