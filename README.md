@@ -8,8 +8,9 @@
   <br><br>
 
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 
   <br>
 
@@ -22,8 +23,7 @@
     I'm Ayaan, a passionate software developer from Somalia 🇸🇴.<br><br>
     🔭 I’m working as a <b>Software Developer</b> specializing in full-stack technologies & UI/UX design.<br>
     📚 I'm currently expanding my skills in <b>Advanced AI Engineering</b>, Natural Language Processing (NLP), and fine-tuning Transformer models.<br>
-    ⚡ In my free time I design clean interfaces in <b>Figma</b>, explore new frontend tools, and focus on tech communication, health, and fitness.
-  </p>
+    ⚡ In my free time I design clean interfaces in <b>Figma</b>, explore new frontend tools, and focus on tech communication, health, and fitness.</p>
 
   <br>
   <hr width="50%" />
